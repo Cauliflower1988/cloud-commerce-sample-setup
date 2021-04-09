@@ -176,6 +176,7 @@
     <extension name='cmswebservices' />
     <extension name='webservicescommons' />
     <extension name='ywebservices' />
+    <extension name='permissionswebservices' />
 
 <!-- Sample Extensions -->
     <extension name='spartacussampledataaddon' />
