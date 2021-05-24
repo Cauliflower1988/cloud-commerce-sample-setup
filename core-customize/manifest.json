@@ -3,7 +3,10 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",  
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "azurecloudhotfolder",
+        "cloudcommons",
+        "cloudhotfolder"
     ],
     "useConfig": {
         "properties": [
