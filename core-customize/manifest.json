@@ -4,9 +4,6 @@
     "extensions": [
         "cloudmediaconversion",  
         "mediaconversionbackoffice",
-        "azurecloudhotfolder",
-        "cloudcommons",
-        "cloudhotfolder"
     ],
     "useConfig": {
         "properties": [
@@ -48,6 +45,10 @@
         {
             "key": "lang.packs",
             "value": "de,en"
+        },
+        {
+            "key": "npmancillary.run.npminstall",
+            "value": "true"
         }
     ],
     "storefrontAddons": [
