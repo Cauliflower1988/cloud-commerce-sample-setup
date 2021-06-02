@@ -296,7 +296,7 @@
     "properties": [
         {
             "key": "npmancillary.run.npminstall",
-            "value": "true"
+            "value": "false"
         }
     ]
 }
