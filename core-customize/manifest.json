@@ -111,11 +111,11 @@
                 },
                 {
                   "key": "sso.metadata.location",
-                  "value": "file:/opt/hybris/config/security/metadata.txt"
+                  "value": "classpath:security/metadata.txt"
                 },
                 {
                   "key": "sso.keystore.location",
-                  "value": "file:/opt/hybris/config/security/samlKeystore.jks"
+                  "value": "classpath:security/samlKeystore.jks"
                 },
                 {
                     "key": "sso.userid.attribute.key",
