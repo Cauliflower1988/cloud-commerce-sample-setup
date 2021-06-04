@@ -111,11 +111,11 @@
                 },
                 {
                   "key": "sso.metadata.location",
-                  "value": "classpath:security/metadata.txt"
+                  "value": "classpath:security/ccv2-metadata.txt"
                 },
                 {
                   "key": "sso.keystore.location",
-                  "value": "classpath:security/samlKeystore.jks"
+                  "value": "classpath:security/ccv2-samlKeystore.jks"
                 },
                 {
                     "key": "sso.userid.attribute.key",
