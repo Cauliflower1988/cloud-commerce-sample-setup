@@ -62,7 +62,8 @@
         "assistedservicestorefront",
         "assistedservicewebservices",
         "assistedservicepromotionaddon",
-        "pcmbackofficesamplesaddon"
+        "pcmbackofficesamplesaddon",
+        "smartedittrail"
     ],
     "aspects": [
         {
