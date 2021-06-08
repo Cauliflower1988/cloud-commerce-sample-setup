@@ -17,7 +17,7 @@ org.springframework.ide.eclipse.core.prefs
 eclipsebin
 
 # NPM packages
-**/node_modules
+#**/node_modules
 
 # Compiled class file
 *.class
